@@ -18,7 +18,7 @@ I like watching movies/series, especially action, thriller, drama biography, and
 
 Besides watching movies/series, I once like playing games. But recently, I don't feel like it. I have Call of Duty Modern Warfare and GTA 5 installed on my laptop, but there is not enough interest to play them. I would play a game when it comes to Spider-Man game on PlayStation 5 because I like Spider-Man very much. Spider-Man is my favorite superhero.<br><br>
 
-## Interest
+## Interests
 
 I'm interested in Programming, Hacking, Freelancing, and Travelling. I'm still in the progress of becoming a Freelancer and Traveller. Not sure about Hacking, though. I'm just interested in that.<br><br>
 
@@ -26,7 +26,7 @@ I'm interested in Programming, Hacking, Freelancing, and Travelling. I'm still i
 
 I'm currently learning Docker and React. I'm also actively creating web API service projects at work using NestJS.<br><br>
 
-## List of technology I have used so far
+## List of technologies I have used so far
 
 ### Often/Recently
 - Windows
