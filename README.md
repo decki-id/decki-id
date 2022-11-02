@@ -10,6 +10,8 @@ I worked at [Revota](https://github.com/revota) for almost five years with the d
 You can see more details about my career timeline on my LinkedIn account [here](https://linkedin.com/in/decki/).<br>
 My recent education degree is a Diploma 3 in Management of Information Systems. Diploma 3 is an Associate degree equivalent in the Indonesian education system.<br><br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deckiherdiawans)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hobbies
 
 Let's talk about hobbies!
