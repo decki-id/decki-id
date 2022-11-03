@@ -42,13 +42,13 @@ I'm currently learning Docker and React. I'm also actively creating web API serv
 - Windows
 - Linux
 - Nginx
+- Docker
 - Vanilla JavaScript
 - JQuery
 - NodeJS
 - NestJS
 - React
 - Python
-- Docker
 - PostgreSQL
 
 ### On some cases
