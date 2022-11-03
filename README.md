@@ -18,7 +18,8 @@ I worked at [Revota](https://github.com/revota) for almost five years with the d
 - Three months and beyond as a Junior Programmer (August 2022 - Present).
 
 You can see more details about my career timeline on my LinkedIn account [here](https://linkedin.com/in/decki/).<br>
-My recent education degree is a Diploma 3 in Management of Information Systems. Diploma 3 is an Associate degree equivalent in the Indonesian education system.<br><br>
+My recent education degree is a Diploma 3 in Management of Information Systems.<br>
+Diploma 3 is an Associate degree equivalent in the Indonesian education system.<br><br>
 
 ## Hobbies
 
