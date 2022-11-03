@@ -54,16 +54,14 @@ I'm currently learning Docker and React. I'm also actively creating web API serv
 ### On some cases
 - Apache
 - CodeIgniter
+- Slim
 - Microsoft SQL Server
 - MySQL
 
-### Rarely
-- Slim
+### Years ago
+- Laravel
 - Flask
 - FastAPI
-- Laravel
-
-### Years ago
 - Java
 - Microsoft Visual Basic 6 & 10
 
