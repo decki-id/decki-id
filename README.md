@@ -89,5 +89,5 @@ I'm looking to collaborate on a freelance project with the technologies mentione
 - <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">WhatsApp link</a>
 - <a href="https://linkedin.com/in/decki/" target="_blank">LinkedIn profile</a>
 - <a href="https://facebook.com/deckiherdiawans" target="_blank">Facebook profile</a>
-- [Instagram link](https://instagram.com/decki.id/){:target="_blank"}
+- <a href="https://instagram.com/decki.id/" target="_blank">Instagram link</a>
 - Instagram username: @decki.id
