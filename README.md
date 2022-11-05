@@ -33,6 +33,14 @@ Besides watching movies/series, I once like playing games. But recently, I don't
 
 I'm interested in Programming, Hacking, Freelancing, and Travelling. I'm still in the progress of becoming a Freelancer and Traveller. Not sure about Hacking, though. I'm just interested in that.<br><br>
 
+## Passion
+
+I am passionate about everything that has to do with ten-finger typing. Because God, I love ten-finger typing! I love it to the point where I want to type a whole text instead of copy-paste it. But of course, I can only do that when there is no urgency, like a deadline or something.
+
+What I like about ten-finger typing is not the speed, but the use of all ten fingers, including the little fingers. Even though I can do ten-finger typing, my typing speed is average. I don't care about the typing speed. I always feel infuriated when I see someone do ten-finger typing, but they don't use the little fingers.
+
+For me, ten-finger typing is not about speed. It's about how each finger does its job in its position, including the little fingers.
+
 ## Current programming activity
 
 I'm currently learning Docker and React. I'm also actively creating web API service projects at work using NestJS.<br><br>
