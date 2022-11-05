@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
 </p>
@@ -11,13 +11,13 @@
 ## Introduction
 
 Hi! I'm Decki. I live in Bandung, West Java, Indonesia.<br>
-I worked at [Revota](https://github.com/revota) for almost five years with the details as follows:<br>
+I worked at <a href="https://github.com/revota" target="_blank">Revota</a> for almost five years with the details as follows:<br>
 
 - Four years as an IT Support Specialist (January 2018 - January 2022).
 - Six months as a Programmer (February - July 2022).
 - Three months and beyond as a Junior Programmer (August 2022 - Present).
 
-You can see more details about my career timeline on my LinkedIn account [here](https://linkedin.com/in/decki/).<br>
+You can see more details about my career timeline on my LinkedIn account <a href="https://linkedin.com/in/decki/" target="_blank">here</a>.<br>
 My recent education degree is a Diploma 3 in Management of Information Systems.<br>
 Diploma 3 is an Associate degree equivalent in the Indonesian education system.<br><br>
 
@@ -39,7 +39,7 @@ I am passionate about everything that has to do with ten-finger typing. Because 
 
 What I like about ten-finger typing is not the speed, but the use of all ten fingers, including the little fingers. Even though I can do ten-finger typing, my typing speed is average. I don't care about the typing speed. I always feel infuriated when I see someone do ten-finger typing, but they don't use the little fingers.
 
-For me, ten-finger typing is not about speed. It's about how each finger does its job in its position, including the little fingers.
+For me, ten-finger typing is not about speed. It's about how each finger does its job in its position, including the little fingers.<br><br>
 
 ## Current programming activity
 
@@ -86,8 +86,8 @@ I'm looking to collaborate on a freelance project with the technologies mentione
 ## Contact me
 
 - WhatsApp number: +6282216668131
-- [WhatsApp link](https://api.whatsapp.com/send?phone=6282216668131)
-- [LinkedIn profile](https://linkedin.com/in/decki/)
-- [Facebook profile](https://facebook.com/deckiherdiawans)
-- [Instagram link](https://instagram.com/decki.id/)
+- <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">WhatsApp link</a>
+- <a href="https://linkedin.com/in/decki/" target="_blank">LinkedIn profile</a>
+- <a href="https://facebook.com/deckiherdiawans" target="_blank">Facebook profile</a>
+- <a href="https://instagram.com/decki.id/" target="_blank">Instagram link</a>
 - Instagram username: @decki.id
