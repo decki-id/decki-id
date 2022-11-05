@@ -31,7 +31,7 @@ Besides watching movies/series, I once like playing games. But recently, I don't
 
 ## Interests
 
-I'm interested in Programming, Hacking, Freelancing, and Travelling. I'm still in the progress of becoming a Freelancer and Traveller. Not sure about Hacking, though. I'm just interested in that.<br><br>
+I'm interested in Programming, Hacking, Freelancing, and Solo Travelling. I'm still in the progress of becoming a Freelancer and Solo Traveller. Not sure about Hacking, though. I'm just interested in that.<br><br>
 
 ## Passion
 
