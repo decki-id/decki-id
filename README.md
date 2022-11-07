@@ -35,7 +35,7 @@ I'm interested in Programming, Hacking, Freelancing, and Solo Travelling. I'm st
 
 ## Passion
 
-I am passionate about everything that has to do with ten-finger typing. Because God, I love ten-finger typing! I love it to the point where I want to type a whole text instead of copy-paste it. But of course, I can only do that when there is no urgency, like a deadline or something.
+I'm passionate about everything that has to do with ten-finger typing. Because God, I love ten-finger typing! I love it to the point where I want to type a whole text instead of copy-paste it. But of course, I can only do that when there is no urgency, like a deadline or something.
 
 What I like about ten-finger typing is not the speed, but the use of all ten fingers, including the little fingers. Even though I can do ten-finger typing, my typing speed is average. I don't care about the typing speed. I always feel infuriated when I see someone do ten-finger typing, but they don't use the little fingers.
 
