@@ -11,13 +11,13 @@
 ## Introduction
 
 Hi! I'm Decki. I live in Bandung, West Java, Indonesia.<br>
-I worked at <a href="https://github.com/revota" target="_blank">Revota</a> for almost five years with the details as follows:<br>
+I worked at [Revota](https://github.com/revota) for almost five years with the details as follows:<br>
 
-- Four years as an IT Support Specialist (January 2018 - January 2022).
-- Six months as a Programmer (February - July 2022).
-- Three months and beyond as a Junior Programmer (August 2022 - Present).
+- January 2018 to January 2022 (four years) as an IT Support Specialist.
+- February to July 2022 (six months) as a Programmer.
+- August 2022 until Present as a Junior Programmer.
 
-You can see more details about my career timeline on my LinkedIn account <a href="https://linkedin.com/in/decki/" target="_blank">here</a>.<br>
+You can see more details about my career timeline on my LinkedIn account [here](https://linkedin.com/in/decki/).<br>
 My recent education degree is a Diploma 3 in Management of Information Systems.<br>
 Diploma 3 is an Associate degree equivalent in the Indonesian education system.<br><br>
 
@@ -86,8 +86,8 @@ I'm looking to collaborate on a freelance project with the technologies mentione
 ## Contact me
 
 - WhatsApp number: +6282216668131
-- <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">WhatsApp link</a>
-- <a href="https://linkedin.com/in/decki/" target="_blank">LinkedIn profile</a>
-- <a href="https://facebook.com/deckiherdiawans" target="_blank">Facebook profile</a>
-- <a href="https://instagram.com/decki.id/" target="_blank">Instagram link</a>
+- [WhatsApp link](https://api.whatsapp.com/send?phone=6282216668131)
+- [LinkedIn profile](https://linkedin.com/in/decki/)
+- [Facebook profile](https://facebook.com/deckiherdiawans)
+- [Instagram link](https://instagram.com/decki.id/)
 - Instagram username: @decki.id
