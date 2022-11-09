@@ -15,7 +15,7 @@ I worked at [Revota](https://github.com/revota) for almost five years with the d
 
 - January 2018 to January 2022 (four years) as an IT Support Specialist.
 - February to July 2022 (six months) as a Programmer.
-- August 2022 until Present as a Junior Programmer.
+- August 2022 until now as a Junior Programmer.
 
 You can see more details about my career timeline on my LinkedIn account [here](https://linkedin.com/in/decki/).<br>
 My recent education degree is a Diploma 3 in Management of Information Systems.<br>
