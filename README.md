@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
-<br><br>
+<br>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
