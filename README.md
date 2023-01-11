@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
-
+<br><br>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
@@ -10,7 +10,7 @@
 <a href="https://instagram.com/decki.id/" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
-<br><br><br>
+<br><br>
 <a href="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
