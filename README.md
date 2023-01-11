@@ -63,7 +63,7 @@
 ## About me
 
 I live in Bandung, West Java, Indonesia.<br>
-I worked at [Revota](https://github.com/revota) for almost five years with the details as follows:<br>
+I worked at [Revota](https://github.com/revota) for five years with the details as follows:<br>
 
 - January 2018 to January 2022 (four years) as an IT Support Specialist.
 - February to July 2022 (six months) as a Programmer.
