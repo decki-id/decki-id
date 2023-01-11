@@ -1,4 +1,4 @@
-<h2> Hi, I'm Decki 👋</h2>
+<h1> Hi, I'm Decki 👋</h1>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
 </p>
+<br><br>
 
 ## List of technologies I have used so far
 
