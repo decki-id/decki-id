@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
+
 <br>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
@@ -23,6 +24,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
 </p>
+<br>
 
 ## List of technologies I have used so far
 
