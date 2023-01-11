@@ -1,4 +1,4 @@
-<h1> Hi, I'm Decki 👋</h1>
+<h1 align="center">Hi, I'm Decki 👋</h1>
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
