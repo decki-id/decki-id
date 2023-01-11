@@ -2,17 +2,36 @@
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" target="_blank">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
 </p>
+<br><br>
+
+## Contact me
+
+<p align="center">
+<a href="https://api.whatsapp.com/send?phone=6282216668131">
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
+</a>
+<a href="https://linkedin.com/in/decki/">
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
+</a>
+<a href="https://instagram.com/decki.id/">
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+</a>
+<a href="https://facebook.com/deckiherdiawans">
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/Facebook/facebook.svg" alt="facebook" />
+</a>
+</p>
+<br><br>
 
 ## List of technologies I have used so far
 
@@ -48,19 +67,6 @@
 - C#
 - C++
 - MongoDB<br><br>
-
-## Collaborate
-
-I'm looking to collaborate on a freelance project with the technologies mentioned above. No programming test bullshit. Just give me a part of the actual project, let me build it according to the existing specifications, and let the result talk.<br><br>
-
-## Contact me
-
-- WhatsApp number: +6282216668131
-- [WhatsApp link](https://api.whatsapp.com/send?phone=6282216668131)
-- [LinkedIn profile](https://linkedin.com/in/decki/)
-- [Facebook profile](https://facebook.com/deckiherdiawans)
-- [Instagram link](https://instagram.com/decki.id/)
-- Instagram username: @decki.id<br><br>
 
 ## About me
 
@@ -98,3 +104,7 @@ For me, ten-finger typing is not about speed. It's about how each finger does it
 ## Current programming activity
 
 I'm currently learning Docker and React. I'm also actively creating web API service projects at work using NestJS.<br><br>
+
+## Collaborate
+
+I'm looking to collaborate on a freelance project with the technologies mentioned above. No programming test bullshit. Just give me a part of the actual project, let me build it according to the existing specifications, and let the result talk.<br><br>
