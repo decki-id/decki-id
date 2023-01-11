@@ -24,7 +24,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
 </p>
-<br>
 
 ## List of technologies I have used so far
 
