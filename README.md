@@ -10,7 +10,7 @@
 </a>
 <br><br>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" target="_blank">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&bg_color=0d1117&text_color=ffffff" alt="decki" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
 </p>
 
