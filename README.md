@@ -55,7 +55,7 @@ I'm looking to collaborate on a freelance project with the technologies mentione
 - [LinkedIn profile](https://linkedin.com/in/decki/)
 - [Facebook profile](https://facebook.com/deckiherdiawans)
 - [Instagram link](https://instagram.com/decki.id/)
-- Instagram username: @decki.id
+- Instagram username: @decki.id<br><br>
 
 ## About me
 
