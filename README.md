@@ -27,9 +27,6 @@
 <a href="https://instagram.com/decki.id/">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
-<a href="https://facebook.com/deckiherdiawans">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/icons/Facebook/facebook.svg" alt="facebook" />
-</a>
 </p>
 <br><br>
 
