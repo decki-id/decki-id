@@ -13,7 +13,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
 </p>
-<br><br>
 
 ## Contact me
 
@@ -28,7 +27,6 @@
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
 </p>
-<br><br>
 
 ## List of technologies I have used so far
 
