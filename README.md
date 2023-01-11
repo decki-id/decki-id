@@ -1,12 +1,16 @@
 <h1> Hi, I'm Decki 👋</h1>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<a href="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
-<a href="https://github.com/anuraghazra/convoychat" target="_blank">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
+</a>
+<br><br>
+<a href="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" target="_blank">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&bg_color=0d1117&text_color=ffffff" alt="decki" />
 </a>
 </p>
 
@@ -16,6 +20,7 @@
 - Windows
 - Linux
 - Nginx
+- PM2
 - Docker
 - Vanilla JavaScript
 - JQuery
@@ -26,7 +31,7 @@
 - PostgreSQL
 
 ### On some cases
-- Apache
+- Apache (XAMPP)
 - CodeIgniter
 - Slim
 - Microsoft SQL Server
