@@ -12,12 +12,12 @@
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
 <br><br>
-<a href="https://github-readme-stats.vercel.app/api?user=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?user=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+<a href="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?user=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
 <br><br>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" target="_blank">
