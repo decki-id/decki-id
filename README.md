@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
 <hr>
+
 ```javascript
+// index.js
 [
   "💻 Full Stack Developer",
   "💻 Linux enthusiast",
@@ -10,6 +12,7 @@
   "🤝 Open for collaborations!"
 ].forEach(e => { console.log(e) })
 ```
+
 <hr>
 
 <br>
