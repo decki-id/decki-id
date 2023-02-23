@@ -17,7 +17,7 @@
 <hr>
 <p align="center">
 <a href="https://wa.me/6282216668131" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
+<img src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
 </a>
 <a href="https://linkedin.com/in/decki/" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
@@ -71,13 +71,21 @@
 </td>
 </tr>
 <tr>
-<td>Others</td>
+<td>Operating Systems</td>
 <td>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="Linux Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </td>
 </tr>
 </table>
