@@ -29,11 +29,11 @@
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deckiherdiawans&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
-<br><br>
+<br>
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" target="_blank">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deckiherdiawans&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </a>
-<br><br>
+<br>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" target="_blank">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=deckiherdiawans&theme=tokyonight_duo" alt="decki" />
 </a>
