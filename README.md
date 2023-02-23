@@ -7,9 +7,10 @@
   "💻 Full Stack Developer",
   "💻 Linux enthusiast",
   "🙌 Ten-finger-typing enthusiast",
-  "🤓 Introvert",
+  "🎥 Movies and series enthusiast",
+  "🙂 Introvert",
   "🤓 Self taught",
-  "🤓 Perfectionist",
+  "👌 Perfectionist",
   "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
 ```
