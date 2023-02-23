@@ -10,7 +10,7 @@
   "🤓 Introvert",
   "🤓 Self taught",
   "🤓 Perfectionist",
-  "🤝 Open for collaborations!"
+  "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
 ```
 
