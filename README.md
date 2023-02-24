@@ -5,11 +5,11 @@
 // index.js
 [
   "💻 Full Stack Developer",
-  "💻 Linux enthusiast",
-  "🙌 Ten-finger-typing enthusiast",
-  "🎥 Movies and series enthusiast",
+  "💻 Linux Enthusiast",
+  "🙌 Ten-finger-typing Enthusiast",
+  "🎥 Movies and Series Enthusiast",
   "🙂 Introvert",
-  "🤓 Self taught",
+  "🤓 Self Taught",
   "👌 Perfectionist",
   "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
@@ -67,7 +67,7 @@
 </td>
 </tr>
 <tr>
-<td>Database</td>
+<td>DBMS</td>
 <td>
 <img alt="MSSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -75,7 +75,7 @@
 </td>
 </tr>
 <tr>
-<td>Operating Systems</td>
+<td>OS</td>
 <td>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
