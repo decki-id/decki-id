@@ -6,6 +6,7 @@
 [
   "💻 Full Stack Developer",
   "💻 Linux Enthusiast",
+  "📄 Literature Enthusiast",
   "🙌 Ten-finger-typing Enthusiast",
   "🎥 Movies and Series Enthusiast",
   "🙂 Introvert",
