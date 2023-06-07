@@ -9,6 +9,7 @@
   "📄 Literature Enthusiast",
   "🙌 Ten-finger-typing Enthusiast",
   "🎥 Movies and Series Enthusiast",
+  "🚶 Solo Travelling Enthusiast",
   "🙂 Introvert",
   "🤓 Self Taught",
   "👌 Perfectionist",
