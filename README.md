@@ -19,7 +19,7 @@
 
 <hr>
 <p align="center">
-<a href="https://wa.me/6282216668131" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
 </a>
 <a href="https://linkedin.com/in/decki/" target="_blank">
