@@ -13,6 +13,7 @@
   "🙂 Introvert",
   "🤓 Self Taught",
   "👌 Perfectionist",
+  "👍 Idealist",
   "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
 ```
