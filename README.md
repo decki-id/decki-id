@@ -30,8 +30,9 @@
 <a href="https://instagram.com/decki.id/" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
-<br><br>
+<br>
 <!--
+<br><br>
 <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=decki-id&layout=compact&bg_color=0d1117&text_color=ffffff" target="_blank">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=decki-id&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </a>
@@ -41,6 +42,7 @@
 </a>
 -->
 </p>
+
 <table align="center">
 <tr>
 <td>Front End</td>
