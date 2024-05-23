@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 <hr>
-
+<br>
 ```javascript
 // index.js
 [
@@ -18,7 +18,7 @@
   "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
 ```
-
+<br>
 <hr>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
@@ -41,7 +41,6 @@
 </a>
 -->
 </p>
-
 <table align="center">
 <tr>
 <td>Front End</td>
