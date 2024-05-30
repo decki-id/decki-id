@@ -31,7 +31,7 @@
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff" />
 <!--
 <br><br>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decki-id&show_icons=true&bg_color=0d1117&text_color=ffffff" />
