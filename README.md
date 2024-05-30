@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
+
 <hr>
 
 ```javascript
@@ -20,6 +21,7 @@
 ```
 
 <hr>
+
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
@@ -35,6 +37,7 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=decki-id&show_icons=true&bg_color=0d1117&text_color=ffffff" />
 </p>
+
 <table align="center">
 <tr>
 <td>Front End</td>
