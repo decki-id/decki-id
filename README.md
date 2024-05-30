@@ -24,20 +24,20 @@
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp" />
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp">
 </a>
 <a href="https://linkedin.com/in/decki/" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin">
 </a>
 <a href="https://instagram.com/decki.id/" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram">
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff">
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=decki-id&bg_color=0d1117&text_color=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=decki-id&theme=dark">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
 </p>
 
 <table align="center">
