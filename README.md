@@ -37,7 +37,7 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
 <br><br>
-<img src="https://streak-stats.demolab.com/?user=decki-id&background=0d1117&ring=2a6ecb&sideNums=2a6ecb&fire=2f80ed>
+<img src="https://streak-stats.demolab.com/?user=decki-id&background=0d1117&ring=2a6ecb&sideNums=2a6ecb&fire=2f80ed">
 </p>
 
 <table align="center">
