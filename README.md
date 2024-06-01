@@ -35,7 +35,7 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=decki-id&theme=github-dark-blue">
 </p>
