@@ -26,7 +26,7 @@
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img
   alt="whatsapp" align="center" width="180" height="32"
-  src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&logoWidth=50&labelColor=25d366&color=1c2024"
+  src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&logoWidth=35&labelColor=25d366&color=1c2024"
 >
 <!--
 </a>
