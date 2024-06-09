@@ -1,5 +1,27 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
+<hr>
+
+```javascript
+// index.js
+[
+  "💻 Full Stack Developer",
+  "💻 Linux Enthusiast",
+  "💻 Remote Worker Wannabe",
+  "🚶 Solo Traveler Wannabe",
+  "🎥 Movies & Series Enthusiast",
+  "🙌 Ten-finger-typing Enthusiast",
+  "📄 Literature Enthusiast",
+  "🙂 Introvert",
+  "🤓 Self Taught",
+  "👌 Perfectionist",
+  "👍 Idealist",
+  "🤝 Open for opportunities and collaborations!"
+].forEach(e => { console.log(e) })
+```
+
+<hr>
+
 <h3 align="center">Currently & Frequently Used Stack</h3>
 
 <p align="center">
@@ -30,26 +52,6 @@ and my office location is 1 hour away from my home by motorcycle.
 <h3 align="center">Current Goal</h3>
 
 <p align="center">In progress saving money for an "emergency fund" for my kickstart of working while solo traveling.</p>
-
-<hr>
-
-```javascript
-// index.js
-[
-  "💻 Full Stack Developer",
-  "💻 Linux Enthusiast",
-  "💻 Remote Worker Wannabe",
-  "🚶 Solo Traveler Wannabe",
-  "🎥 Movies & Series Enthusiast",
-  "🙌 Ten-finger-typing Enthusiast",
-  "📄 Literature Enthusiast",
-  "🙂 Introvert",
-  "🤓 Self Taught",
-  "👌 Perfectionist",
-  "👍 Idealist",
-  "🤝 Open for opportunities and collaborations!"
-].forEach(e => { console.log(e) })
-```
 
 <hr>
 
