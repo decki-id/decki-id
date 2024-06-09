@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
-<h2 align="center">Currently & Frequently Used Stack</h2>
+<h3 align="center">Currently & Frequently Used Stack</h3>
 
 <p align="center">
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -12,14 +12,14 @@
 <img alt="CentOS" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
 </p>
 
-<h2 align="center">Occasionally Used Stack</h2>
+<h3 align="center">Occasionally Used Stack</h3>
 
 <p align="center">
 <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 
-<h2 align="center">Current Situation</h2>
+<h3 align="center">Current Situation</h3>
 
 <p align="center">
 Focused only on the projects at work.<br>
@@ -27,7 +27,7 @@ No time to create a personal portfolio since my current job is on-site<br>
 and my office location is 1 hour away from my home by motorcycle.
 </p>
 
-<h2 align="center">Current Goal</h2>
+<h3 align="center">Current Goal</h3>
 
 <p align="center">In progress saving money for an "emergency fund" for my kickstart of working while solo traveling.</p>
 
