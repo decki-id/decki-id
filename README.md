@@ -24,9 +24,7 @@
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
-<img
-alt="whatsapp" align="center" width="195" height="32"
-src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024"
+<img alt="whatsapp" align="center" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024"
 >
 </a>
 <!--
@@ -41,7 +39,7 @@ src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsa
 </a>
 -->
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&langs_count=20&bg_color=0d1117&text_color=ffffff&layout=compact&hide=html,jupyter%20notebook"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&langs_count=20&bg_color=0d1117&text_color=ffffff&layout=compact&hide=c,html,cmake,swift,kotlin,objective-c,c%2B%2B,jupyter%20notebook"
 >
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
