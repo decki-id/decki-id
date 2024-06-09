@@ -22,17 +22,21 @@
 
 <hr>
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <p align="center">
+<a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
+<img alt="whatsapp" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024" align="center">
+</a>
+<!--
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img alt="whatsapp" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" align="center">
 </a>
-<!-- <a href="https://linkedin.com/in/decki/" target="_blank">
+<a href="https://linkedin.com/in/decki/" target="_blank">
 <img alt="linkedin" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" align="center">
 </a>
 <a href="https://instagram.com/decki.id/" target="_blank">
 <img alt="instagram" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" align="center">
-</a> -->
+</a>
+-->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff">
 <br><br>
