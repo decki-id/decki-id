@@ -44,12 +44,18 @@
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 
-<h3 align="center">Current Situation</h3>
+<h3 align="center">Current Personal Situation</h3>
 
 <p align="center">
 Focused only on the projects at work.<br>
 No time to create a personal portfolio since my current job is on-site<br>
 and my office location is 1 hour away from my home by motorcycle.
+</p>
+
+<h3 align="center">Current Situation at Work</h3>
+
+<p align="center">
+Focused only on the Back End & Deployment after previously also handling the Front End.
 </p>
 
 <h3 align="center">Current Goal</h3>
