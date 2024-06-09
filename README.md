@@ -2,8 +2,8 @@
 
 <h3 align="center">Summary</h3>
 
-<p>
-I'm a Programmer who finally
+<p align="center">
+I'm a Programmer who finally has a job on the right track after previously having to work in a non-IT field because of the wrong major in high school.
 </p>
 
 <h3 align="center">Current Situation</h3>
