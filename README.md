@@ -1,10 +1,13 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
-<h3 align="center">Summary</h3>
+<h3 align="center">Currently & Frequently Used Stack</h3>
 
 <p align="center">
-I'm a Programmer who finally has a job on the right track<br>
-after previously having to work in a non-IT field because of the wrong major in high school.
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
 <h3 align="center">Current Situation</h3>
