@@ -24,14 +24,14 @@
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" alt="whatsapp">
+<img alt="whatsapp" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" align="center">
 </a>
-<a href="https://linkedin.com/in/decki/" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin">
+<!-- <a href="https://linkedin.com/in/decki/" target="_blank">
+<img alt="linkedin" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" align="center">
 </a>
 <a href="https://instagram.com/decki.id/" target="_blank">
-<img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram">
-</a>
+<img alt="instagram" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" align="center">
+</a> -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&layout=compact&bg_color=0d1117&text_color=ffffff">
 <br><br>
