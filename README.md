@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
+<h3 align="center">Summary</h3>
+
+<h3 align="center">Current Situation</h3>
+
+<h3 align="center">Current Goal</h3>
+
 <hr>
 
 ```javascript
