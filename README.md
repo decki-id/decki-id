@@ -25,14 +25,14 @@
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img
-  alt="whatsapp" align="center" width="195" height="32"
-  src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024"
+  alt="whatsapp" align="center" width="180" height="32"
+  src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&logoWidth=50&labelColor=25d366&color=1c2024"
 >
+<!--
 </a>
 <a href="https://api.whatsapp.com/send?phone=6282216668131&app_absent=1" target="_blank">
 <img alt="whatsapp" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" align="center">
 </a>
-<!--
 <a href="https://linkedin.com/in/decki/" target="_blank">
 <img alt="linkedin" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" align="center">
 </a>
