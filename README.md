@@ -23,7 +23,8 @@
 
 <p align="center">
 Focused only on the projects at work.<br>
-No time to create a personal portfolio since my current job is on-site and my office location is 1 hour away from my home by motorcycle.
+No time to create a personal portfolio since my current job is on-site<br>
+and my office location is 1 hour away from my home by motorcycle.
 </p>
 
 <h3 align="center">Current Goal</h3>
