@@ -60,9 +60,7 @@ and my office location is 1 hour away from my home by motorcycle.
 
 <h3 align="center">Current Situation at Work</h3>
 
-<p align="center">
-Focused only on the Back End & Deployment after previously also handling the Front End.
-</p>
+<p align="center">Focused only on the Back End & Deployment after previously also handling the Front End.</p>
 
 <h3 align="center">Current Goal</h3>
 
@@ -81,8 +79,8 @@ Focused only on the Back End & Deployment after previously also handling the Fro
 <a href="https://instagram.com/decki.id/" target="_blank">
 <img alt="instagram" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" align="center">
 </a>
--->
 <br><br>
+-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&langs_count=20&bg_color=0d1117&text_color=ffffff&layout=compact&hide=c,html,cmake,swift,kotlin,objective-c,c%2B%2B,jupyter%20notebook">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
