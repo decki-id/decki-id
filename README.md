@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Decki 👋</h1>
 
-<p align="center" style="margin:0">
+<p align="center">
 <img alt="id" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png">
 <img alt="ps" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png">
 </p>
-
-<hr>
 
 ```javascript
 // index.js
@@ -24,8 +22,6 @@
   "🤝 Open for opportunities and collaborations!"
 ].forEach(e => { console.log(e) })
 ```
-
-<hr>
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
