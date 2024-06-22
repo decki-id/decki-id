@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Decki 👋 <img alt="id" src="https://github.com/ashleedawg/flags/blob/master/ID.png"> <img alt="ps" src="https://github.com/ashleedawg/flags/blob/master/PS.png"></h1>
+<h1 align="center">Hi, I'm Decki 👋 <img alt="id" width="45" height="32" src="https://github.com/ashleedawg/flags/blob/master/ID.png"> <img alt="ps" width="45" height="32" src="https://github.com/ashleedawg/flags/blob/master/PS.png"></h1>
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
