@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I'm Decki 👋 <img alt="id" width="32" height="22" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"> <img alt="ps" width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"></h1>
-
-<p align="center">
-<a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
-<img alt="whatsapp" align="center" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
-</a>
-</p>
+<h1 align="center">Hi, I'm Decki 👋</h1>
 
 <hr>
 
@@ -27,6 +21,12 @@
 ```
 
 <hr>
+
+<p align="center">
+<a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
+<img alt="whatsapp" align="center" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
+</a>
+</p>
 
 <h3 align="center">Currently & Frequently Used Stack</h3>
 
