@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Decki 👋</h1>
+<h1 align="center">Hi, I'm Decki 👋 <img alt="id" width="32" height="22" src="https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg"> <img alt="ps" width="32" height="22" src="https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg"></h1>
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
