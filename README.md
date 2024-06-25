@@ -30,8 +30,9 @@
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
-<img alt="whatsapp" align="center" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
+<img alt="whatsapp" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
 </a>
+<!-- <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> -->
 </p>
 
 <h3 align="center">Currently & Frequently Used Stack</h3>
