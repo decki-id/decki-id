@@ -34,7 +34,7 @@
 </a>
 &nbsp;
 <a href="https://stackoverflow.com/users/11242042/decki" target="_blank">
-<img alt="stackoverflow" width="195" height="32" src="https://img.shields.io/badge/decki-1c2024?style=flat&logo=stack-overflow&logoColor=white">
+<img alt="stackoverflow" width="195" height="32" src="https://img.shields.io/badge/decki-1c2024?style=flat&logo=stack-overflow&logoColor=white&labelColor=25d366&color=1c2024">
 </a>
 </p>
 
