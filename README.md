@@ -38,7 +38,7 @@
 </a>
 </p>
 
-<h3 align="center">Currently & Frequently Used Stack</h3>
+<h3 align="center">Current Frequently Used Stack</h3>
 
 <p align="center">
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
