@@ -74,7 +74,7 @@ and my office location is 1 hour away from my home by motorcycle.
 
 <h3 align="center">Current Goal</h3>
 
-<p align="center">In progress saving money for an "emergency fund" for my kickstart of working while solo traveling.</p>
+<p align="center">In progress saving money for an "emergency fund" for my kickstart of working remotely while solo traveling.</p>
 
 <hr>
 
