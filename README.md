@@ -6,7 +6,7 @@
 <img alt="ps" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png">
 </p>
 <br>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=decki-id>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=decki-id">
 
 <hr>
 
