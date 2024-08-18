@@ -29,8 +29,8 @@
 <hr>
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=6282216668131" style="color: #1c2024;" target="_blank">
-<img alt="whatsapp" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
+<a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
+<img alt="whatsapp" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024" />
 </a>
 &nbsp;
 <img alt="Profile Views" height="32" src="https://komarev.com/ghpvc/?username=decki-id&color=1c2024">
