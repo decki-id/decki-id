@@ -29,7 +29,7 @@
 <hr>
 
 <p align="center">
-<a href="https://wa.me/6282216668131" style="color:#1c2024;" target="_blank">
+<a href="https://wa.me/6282216668131" style="color:transparent;" target="_blank">
 <img alt="whatsapp" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
 </a>
 &nbsp;
