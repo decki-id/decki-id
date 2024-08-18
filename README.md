@@ -4,8 +4,6 @@
 <img alt="id" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png">
 &nbsp;
 <img alt="ps" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png">
-<br><br>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=decki-id">
 </p>
 
 <hr>
@@ -34,6 +32,8 @@
 <a href="https://api.whatsapp.com/send?phone=6282216668131" target="_blank">
 <img alt="whatsapp" width="195" height="32" src="https://img.shields.io/badge/%2B6282216668131-1c2024?style=flat&logo=whatsapp&logoColor=white&labelColor=25d366&color=1c2024">
 </a>
+&nbsp;
+<img alt="Profile Views" height="32" src="https://komarev.com/ghpvc/?username=decki-id">
 &nbsp;
 <a href="https://stackoverflow.com/users/11242042/decki" target="_blank">
 <img alt="stackoverflow" height="32" src="https://img.shields.io/badge/decki-fe7a16?style=flat&logo=stack-overflow&logoColor=white&labelColor=fe7a16&color=1c2024">
