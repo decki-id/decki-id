@@ -61,8 +61,8 @@
 <p align="center">
 Focused only on the projects at work.<br>
 No time to create a personal portfolio since my current job is on-site<br>
-and my office location is one hour away from my home by motorcycle.
-<----- UPDATE -----!>
+and my office location is one hour away from my home by motorcycle.<br>
+<----- UPDATE -----!><br>
 Currently live near my office after the above situation by renting an apartment around the office.<br>
 Trying to be productive outside my working hours by creating my personal portfolio project to achieve my goal.<br>
 Am I a procrastinator who only makes an excuse to do nothing in my free time instead of being productive?<br>
