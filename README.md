@@ -72,7 +72,7 @@ But honestly, I always need motivation to be productive in my free time and do m
 
 <h3 align="center">Current Situation at Work</h3>
 
-<p align="center">Focused only on the Back End & Deployment after previously also handling the Front End.</p>
+<p align="center">Focused only on the Backend & Deployment after previously also handling the Frontend.</p>
 
 <h3 align="center">Current Goal</h3>
 
