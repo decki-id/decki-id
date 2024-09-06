@@ -11,7 +11,7 @@
 ```javascript
 // index.js
 [
-  "💻 Full Stack Developer",
+  "💻 Full-Stack Developer",
   "💻 Linux Enthusiast",
   "💻 Remote Worker Wannabe",
   "🚶 Solo Traveler Wannabe",
