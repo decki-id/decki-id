@@ -80,8 +80,8 @@ But honestly, I always need motivation to be productive in my free time and do m
 
 <hr>
 
-<p align="center">
 <!--
+<p align="center">
 <a href="https://wa.me/6282216668131" target="_blank">
 <img alt="whatsapp" src="https://github.com/keikomori/icons-badges/blob/master/badges/WhatsApp/whatsapp.svg" align="center">
 </a>
@@ -94,11 +94,11 @@ But honestly, I always need motivation to be productive in my free time and do m
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decki-id&size_weight=0&count_weight=1&langs_count=20&bg_color=0d1117&text_color=ffffff&layout=compact&hide=c,html,cmake,swift,kotlin,objective-c,c%2B%2B,jupyter%20notebook">
 <br><br>
--->
 <img src="https://github-readme-stats.vercel.app/api?username=decki-id&show=prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&bg_color=0d1117&text_color=ffffff">
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=decki-id&background=0d1117&ring=2a6ecb&fire=2f80ed&sideNums=2a6ecb&sideLabels=ebebec&currStreakNum=ffffff&currStreakLabel=ffffff&dates=767778">
 </p>
+-->
 
 <table align="center">
 <tr>
