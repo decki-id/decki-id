@@ -34,6 +34,18 @@
 <a href="https://stackoverflow.com/users/11242042/decki" target="_blank"><img alt="stackoverflow" height="32" src="https://img.shields.io/badge/decki-fe7a16?style=flat&logo=stack-overflow&logoColor=white&labelColor=fe7a16&color=1c2024"></a>
 </p>
 
+<h3 align="center">Summary</h3>
+
+<p align="center">
+Currently employed as a Full-Stack Developer at Revota, with a background in developing and deploying web API services and web applications as add-on features for the company's
+primary product (POS & WMS), which boasts over 150 stores and warehouses.<br>
+Proficient in developing web API services and web applications using NestJS and FastAPI (also React until February 2024), along with expertise in DBMS PostgreSQL and MySQL.<br>
+Skilled in deploying these applications on Linux Ubuntu and CentOS servers using Git, Docker, and Nginx (also Jenkins since December 2024).<br>
+My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonstrating my readiness for assignment to any of these domains.<br>
+A quick learner, highly enthusiastic about acquiring new technology skills.<br>
+NB: I always failed coding tests, but I could still do all the above.
+</p>
+
 <h3 align="center">Current Frequently Used Stack</h3>
 
 <p align="center">
@@ -55,28 +67,6 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
-
-<h3 align="center">Current Personal Situation</h3>
-
-<p align="center">
-Focused only on the projects at work.<br>
-No time to create a personal portfolio since my current job is on-site<br>
-and my office location is one hour away from my home by motorcycle.<br>
-VVVVV UPDATE VVVVV<br>
-Currently live near my office after the above situation by renting an apartment around the office.<br>
-Trying to be productive outside my working hours by creating my personal portfolio project to achieve my goal.<br>
-Am I a procrastinator who only makes an excuse to do nothing in my free time instead of being productive?<br>
-I hope not.<br>
-But honestly, I always need motivation to be productive in my free time and do my own projects.
-</p>
-
-<h3 align="center">Current Situation at Work</h3>
-
-<p align="center">Focused only on the Backend & Deployment after previously also handling the Frontend.</p>
-
-<h3 align="center">Current Goal</h3>
-
-<p align="center">In progress saving money for an "emergency fund" for my kickstart of working remotely while solo traveling.</p>
 
 <hr>
 
