@@ -37,13 +37,19 @@
 <h3 align="center">Summary</h3>
 
 <p align="center">
-Currently employed as a Full-Stack Developer at Revota, with a background in developing and deploying web API services and web applications as add-on features for the company's
-primary product (POS & WMS), which boasts over 150 stores and warehouses.<br>
+Currently employed as a Full-Stack Developer at Revota for 3 years, with a background in developing and deploying web API services and web applications as add-on features for the company's primary product (POS & WMS), which boasts over 150 stores and warehouses.<br>
 Proficient in developing web API services and web applications using NestJS and FastAPI (also React until February 2024), along with expertise in DBMS PostgreSQL and MySQL.<br>
 Skilled in deploying these applications on Linux Ubuntu and CentOS servers using Git, Docker, and Nginx (also Jenkins since December 2024).<br>
 My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonstrating my readiness for assignment to any of these domains.<br>
 A quick learner, highly enthusiastic about acquiring new technology skills.<br>
-NB: I always failed coding tests but could still do all the above.
+</p>
+
+<h3 align="center">Points I need the recruiters & users to get</h3>
+
+<p align="center">
+*** My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) ***
+*** I have been a Full-Stack Developer for 3 years ***
+*** I always failed coding tests but could still do this job ***
 </p>
 
 <h3 align="center">Current Frequently Used Stack</h3>
@@ -63,8 +69,10 @@ NB: I always failed coding tests but could still do all the above.
 <h3 align="center">Occasionally Used Stack</h3>
 
 <p align="center">
+<img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 
