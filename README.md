@@ -43,7 +43,7 @@ Proficient in developing web API services and web applications using NestJS and 
 Skilled in deploying these applications on Linux Ubuntu and CentOS servers using Git, Docker, and Nginx (also Jenkins since December 2024).<br>
 My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonstrating my readiness for assignment to any of these domains.<br>
 A quick learner, highly enthusiastic about acquiring new technology skills.<br>
-NB: I always failed coding tests, but I could still do all the above.
+NB: I always failed coding tests but could still do all the above.
 </p>
 
 <h3 align="center">Current Frequently Used Stack</h3>
