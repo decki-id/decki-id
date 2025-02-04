@@ -47,8 +47,8 @@ A quick learner, highly enthusiastic about acquiring new technology skills.
 <h3 align="center">3 points I need the recruiters & users to get</h3>
 
 <p align="center">
-*** My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) ***<br>
-*** I have been a Full-Stack Developer for 3 years ***<br>
+* My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) *<br>
+** I have been a Full-Stack Developer for 3 years **<br>
 *** I always failed coding tests but could still do this job ***
 </p>
 
