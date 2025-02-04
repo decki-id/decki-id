@@ -41,14 +41,14 @@ Currently employed as a Full-Stack Developer at Revota for 3 years, with a backg
 Proficient in developing web API services and web applications using NestJS and FastAPI (also React until February 2024), along with expertise in DBMS PostgreSQL and MySQL.<br>
 Skilled in deploying these applications on Linux Ubuntu and CentOS servers using Git, Docker, and Nginx (also Jenkins since December 2024).<br>
 My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonstrating my readiness for assignment to any of these domains.<br>
-A quick learner, highly enthusiastic about acquiring new technology skills.<br>
+A quick learner, highly enthusiastic about acquiring new technology skills.
 </p>
 
-<h3 align="center">Points I need the recruiters & users to get</h3>
+<h3 align="center">3 points I need the recruiters & users to get</h3>
 
 <p align="center">
-*** My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) ***
-*** I have been a Full-Stack Developer for 3 years ***
+*** My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) ***<br>
+*** I have been a Full-Stack Developer for 3 years ***<br>
 *** I always failed coding tests but could still do this job ***
 </p>
 
