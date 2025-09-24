@@ -44,12 +44,13 @@ My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonst
 A quick learner, highly enthusiastic about acquiring new technology skills.
 </p>
 
-<h3 align="center">3 points I need the recruiters & users to get</h3>
+<h3 align="center">4 points I need the recruiters & users to get</h3>
 
 <p align="center">
-* My degree is 3rd Diploma (Associate degree equivalent in the Indonesian education system) *<br>
-** I have been a Full-Stack Developer for 3 years **<br>
-*** I always failed coding tests but could still do this job ***
+* My degree is a 3rd Diploma (Associate degree equivalent in the Indonesian education system) *<br>
+** I have been a Full-Stack Developer for almost 4 years, with 4 years of previous experience as an IT Support Specialist **<br>
+*** I always failed coding tests, but could still do this job ***
+**** I prefer to stay in a company for a long time rather than being a job hopper ****
 </p>
 
 <h3 align="center">Current Frequently Used Stack</h3>
