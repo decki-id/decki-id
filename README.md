@@ -49,7 +49,7 @@ A quick learner, highly enthusiastic about acquiring new technology skills.
 <p align="center">
 * My degree is a 3rd Diploma (Associate degree equivalent in the Indonesian education system) *<br>
 ** I have been a Full-Stack Developer for almost 4 years, with 4 years of previous experience as an IT Support Specialist **<br>
-*** I always failed coding tests, but could still do this job ***
+*** I always failed coding tests, but could still do this job ***<br>
 **** I prefer to stay in a company for a long time rather than being a job hopper ****
 </p>
 
