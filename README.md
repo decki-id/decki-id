@@ -17,7 +17,7 @@
   "🚶 Solo Traveler Wannabe",
   "📄 Literature Enthusiast",
   "🎥 Movies & Series Enthusiast",
-  "🙌 Ten-finger-typing Enthusiast",
+  "🙌 Ten-Finger Typing Enthusiast",
   "🙂 Introvert",
   "🤓 Self Taught",
   "👌 Perfectionist",
