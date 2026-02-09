@@ -36,21 +36,24 @@
 
 <h3 align="center">Summary</h3>
 
-<p align="center">
-Currently employed as a Full-Stack Developer at Revota for 3 years, with a background in developing and deploying web API services and web applications as add-on features for the company's primary product (POS & WMS), which boasts over 150 stores and warehouses.<br>
-Proficient in developing web API services and web applications using NestJS and FastAPI (also React until February 2024), along with expertise in DBMS PostgreSQL and MySQL.<br>
-Skilled in deploying these applications on Linux Ubuntu and CentOS servers using Git, Docker, and Nginx (also Jenkins since December 2024).<br>
-My orientation toward Front-End, Back-End, and DevOps remains adaptable, demonstrating my readiness for assignment to any of these domains.<br>
-A quick learner, highly enthusiastic about acquiring new technology skills.
-</p>
+<p align="justify">
+I am a Senior Full-Stack Developer with an 8-year track record of building and scaling systems that bridge the gap between "legacy" reliability and "modern" performance.
 
-<h3 align="center">4 points I need the recruiters & users to get</h3>
+My journey began in IT Support, where I spent 4 years mastering the art of troubleshooting and remote client assistance. This foundation taught me that software isn't just about code—it’s about solving problems for real users. For the past 4 years, I have translated that mindset into Full-Stack Development, where I now lead a team of 2 developers in building high-concurrency API services and web applications.
 
-<p align="center">
-* My degree is a 3rd Diploma (Associate degree equivalent in the Indonesian education system) *<br>
-** I have been a Full-Stack Developer for almost 4 years, with 4 years of previous experience as an IT Support Specialist **<br>
-*** I always failed coding tests, but could still do this job ***<br>
-**** I prefer to stay in a company for a long time rather than being a job hopper ****
+My expertise centers on building and deploying scalable web API services and applications that serve as critical add-on features for our company's POS & WMS platform—currently supporting over 150 stores and warehouses. I work extensively with NestJS, FastAPI, React, PostgreSQL, and handle end-to-end deployment on Linux Ubuntu & CentOS servers using Docker, Nginx, Git, and Jenkins.
+
+Key Highlights:
+• Successfully integrated web API services with Omnichannel platforms (Ginee, Forstok)
+• Delivered 3 web-based data visualization dashboards and multiple custom back-end services
+• Experienced in server configuration and deployment from scratch on Ubuntu and CentOS
+• Adaptable across Front-End, Back-End, and DevOps domains
+
+What I bring to the table:
+• Pragmatic Engineering: I focus on "Code for Humans." While I prefer building robust, production-ready systems over solving abstract competitive coding puzzles, I have a proven ability to bring complex project ideas to life.
+• Loyalty & Stability: I believe in growing with a company. Having spent 8 years at my current firm, I am looking for my next long-term "home" where I can contribute to a remote-first culture.
+• Technical Versatility: Associate Degree (D3) background with a "do-what-it-takes" attitude across Backend (FastAPI, NestJS), Frontend (React), and DevOps (Docker, Jenkins, Nginx).
+I am currently seeking Full-Remote opportunities where I can leverage my experience in POS/WMS ecosystems and team leadership.
 </p>
 
 <h3 align="center">Current Frequently Used Stack</h3>
