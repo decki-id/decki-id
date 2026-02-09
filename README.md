@@ -43,16 +43,17 @@ My journey began in IT Support, where I spent 4 years mastering the art of troub
 
 My expertise centers on building and deploying scalable web API services and applications that serve as critical add-on features for our company's POS & WMS platform—currently supporting over 150 stores and warehouses. I work extensively with NestJS, FastAPI, React, PostgreSQL, and handle end-to-end deployment on Linux Ubuntu & CentOS servers using Docker, Nginx, Git, and Jenkins.
 
-Key Highlights:
-• Successfully integrated web API services with Omnichannel platforms (Ginee, Forstok)
-• Delivered 3 web-based data visualization dashboards and multiple custom back-end services
-• Experienced in server configuration and deployment from scratch on Ubuntu and CentOS
-• Adaptable across Front-End, Back-End, and DevOps domains
+Key Highlights:<br>
+• Successfully integrated web API services with Omnichannel platforms (Ginee, Forstok)<br>
+• Delivered 3 web-based data visualization dashboards and multiple custom back-end services<br>
+• Experienced in server configuration and deployment from scratch on Ubuntu and CentOS<br>
+• Adaptable across Front-End, Back-End, and DevOps domains<br>
 
-What I bring to the table:
-• Pragmatic Engineering: I focus on "Code for Humans." While I prefer building robust, production-ready systems over solving abstract competitive coding puzzles, I have a proven ability to bring complex project ideas to life.
-• Loyalty & Stability: I believe in growing with a company. Having spent 8 years at my current firm, I am looking for my next long-term "home" where I can contribute to a remote-first culture.
-• Technical Versatility: Associate Degree (D3) background with a "do-what-it-takes" attitude across Backend (FastAPI, NestJS), Frontend (React), and DevOps (Docker, Jenkins, Nginx).
+What I bring to the table:<br>
+• Pragmatic Engineering: I focus on "Code for Humans." While I prefer building robust, production-ready systems over solving abstract competitive coding puzzles, I have a proven ability to bring complex project ideas to life.<br>
+• Loyalty & Stability: I believe in growing with a company. Having spent 8 years at my current firm, I am looking for my next long-term "home" where I can contribute to a remote-first culture.<br>
+• Technical Versatility: Associate Degree (D3) background with a "do-what-it-takes" attitude across Backend (FastAPI, NestJS), Frontend (React), and DevOps (Docker, Jenkins, Nginx).<br>
+
 I am currently seeking Full-Remote opportunities where I can leverage my experience in POS/WMS ecosystems and team leadership.
 </p>
 
