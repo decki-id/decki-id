@@ -31,7 +31,7 @@
 <h3 align="center">Summary</h3>
 
 <p align="justify">
-I am a Senior Full-Stack Developer with an 8-year track record of building and scaling systems that bridge the gap between "legacy" reliability and "modern" performance.
+I am a Full-Stack Developer with an 8-year track record of building and scaling systems that bridge the gap between "legacy" reliability and "modern" performance.
 
 My journey began in IT Support, where I spent 4 years mastering the art of troubleshooting and remote client assistance. This foundation taught me that software isn't just about code—it’s about solving problems for real users. For the past 4 years, I have translated that mindset into Full-Stack Development, where I now lead a team of 2 developers in building high-concurrency API services and web applications.
 
