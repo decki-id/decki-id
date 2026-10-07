@@ -16,7 +16,7 @@
   "🤓 Self-Taught",
   "👌 Perfectionist",
   "👍 Idealist",
-  "🤝 Open for opportunities and collaborations!"
+  "🤝 Open to opportunities & collaborations!"
 ].forEach(e => { console.log(e) })
 ```
 
