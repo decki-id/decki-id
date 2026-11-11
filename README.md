@@ -31,9 +31,9 @@
 <h3 align="center">Summary</h3>
 
 <p align="justify">
-I am a Full-Stack Developer with an 8-year track record of building and scaling systems that bridge the gap between "legacy" reliability and "modern" performance.
+I am a Full-Stack Developer with 8 years of experience building and scaling systems that bridge the gap between "legacy" reliability and "modern" performance.
 
-My journey began in IT Support, where I spent 4 years mastering the art of troubleshooting and remote client assistance. This foundation taught me that software isn't just about code—it’s about solving problems for real users. For the past 4 years, I have translated that mindset into Full-Stack Development, where I now lead a team of 2 developers in building high-concurrency API services and web applications.
+I began in IT Support, spending 4 years mastering troubleshooting and remote client support. This foundation taught me that software isn't just about code—it’s about solving problems for real users. For the past 4 years, I have translated that mindset into Full-Stack Development, where I now lead a team of 2 developers in building high-concurrency API services and web applications.
 
 My expertise centers on building and deploying scalable web API services and applications that serve as critical add-on features for our company's POS & WMS platform—currently supporting over 150 stores and warehouses. I work extensively with NestJS, FastAPI, React, PostgreSQL, and handle end-to-end deployment on Linux Ubuntu & CentOS servers using Docker, Nginx, Git, and Jenkins.
 
@@ -44,7 +44,7 @@ Key Highlights:<br>
 • Adaptable across Front-End, Back-End, and DevOps domains<br>
 
 What I bring to the table:<br>
-• Pragmatic Engineering: I focus on "Code for Humans." While I prefer building robust, production-ready systems over solving abstract competitive coding puzzles, I have a proven ability to bring complex project ideas to life.<br>
+• Pragmatic Engineering: I focus on "Code for Humans." While I prefer building robust, production-ready systems over solving abstract competitive coding puzzles and/or building personal projects, I have a proven ability to bring complex project ideas to life.<br>
 • Loyalty & Stability: I believe in growing with a company. Having spent 8 years at my current firm, I am looking for my next long-term "home" where I can contribute to a remote-first culture.<br>
 • Technical Versatility: Associate Degree (D3) background with a "do-what-it-takes" attitude across Backend (FastAPI, NestJS), Frontend (React), and DevOps (Docker, Jenkins, Nginx).<br>
 
